@@ -1,4 +1,4 @@
-# gujju-vyanjan
+# Gujju-Vyanjan
 
 Introducing Gujju Vyanjan, the must-have recipe app for anyone who loves Indian cuisine! With Gujju Vyanjan, you have access to thousands of mouth-watering recipes, complete with detailed instructions and a list of ingredients. Whether you're a seasoned cook or a beginner, our app is designed to make cooking delicious Indian food easy and fun.<br/>
 
